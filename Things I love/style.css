@@ -1,0 +1,42 @@
+#wrapper{
+    max-height: 100px;
+    display: flex;
+    align-items: center;
+  }
+  .box{
+    width: 175px;
+    height: 150px;
+  }
+  h1{
+    text-align: center;
+    font: bold;
+    color: mediumpurple;
+    text-decoration: underline;
+    font-family: cursive;
+  }
+  body{
+    background: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg);
+  }
+  ul{
+    color: white;
+    font-weight: bold;
+  }
+  a{
+    color: white;
+  }
+  h2{
+    color: paleturquoise;
+    font-family: cursive
+  }
+  button{
+    background-color: mediumpurple;
+  }
+  img{
+    width: 125px;
+    height: 50;
+    margin: 10px;
+    border-color: darkcyan;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+  }
